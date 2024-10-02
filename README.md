@@ -8,9 +8,13 @@ Nom : CreativeAgency
 slogan : "Where Creativity Meets Technology"
 
 Cloé rôle : responsable contenu 
+
 Lorenzo  rôle : dev front 
+
 Rayane rôle : chef de projet
+
 Antwon rôle : dev front 
+
 Moi rôle : designer ux / ui 
 
 projet :
