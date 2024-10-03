@@ -3,19 +3,19 @@
 # #DI2024
 
 
-projet collaboratif GIT CreativeAgency
+## projet collaboratif GIT CreativeAgency
 Nom : CreativeAgency
 slogan : "Where Creativity Meets Technology"
 
-Cloé rôle : responsable contenu 
+* Cloé rôle : responsable contenu 
 
-Lorenzo  rôle : dev front 
+* Lorenzo  rôle : dev front 
 
-Rayane rôle : chef de projet
+* Rayane rôle : chef de projet
 
-Antwon rôle : dev front 
+* Antwon rôle : dev front 
 
-Moi rôle : designer ux / ui 
+* Quentin rôle : designer ux / ui 
 
 projet :
 
@@ -48,27 +48,27 @@ paragraphe présentation : **creativeAgency** est une agence spécialisée dans 
 
 
 ### Nos Services
-1Design Graphique**
+1. Design Graphique**
 	* Conception de logos
 	* Création d’identités visuelles
 	* Design de supports marketing (brochures, flyers, cartes de visite)
 	* UI/UX design pour des interfaces intuitives et esthétiques
 
  
-2 Développement Web**
+2. Développement Web**
 	* Création de sites web sur mesure
 	* Développement d'applications web et e-commerce
 	* Optimisation des performances et SEO technique
 	* Sites responsives et adaptés à tous les écrans
 
  
-3Branding & Stratégie**
+3. Branding & Stratégie**
 	* Définition de l’identité de marque
 	* Positionnement digital et création de contenus
 	* Stratégies de communication visuelle cohérentes
 	* Gestion de campagnes et conseils en marketing digital
  
-4 Maintenance & Support
+4. Maintenance & Support
 	* Mise à jour continue des sites web
 	* Support technique réactif et sécurisé
 	* Optimisation continue de l’expérience utilisateur
