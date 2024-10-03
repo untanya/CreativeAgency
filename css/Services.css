@@ -1,41 +1,44 @@
-:root{
-    --clr-principale:#1A202C;
-    --clr-txt:#CBD5E0;
-    --color-btn:#4299E1;
+:root {
+  --clr-principale: #1a202c;
+  --clr-txt: #cbd5e0;
+  --color-btn: #4299e1;
 }
 
-*{
-    font-family: "Montserrat", sans-serif;
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0; /* Suppression des marges par défaut */
+  padding: 0; /* Suppression des espacements par défaut */
 }
 
-li{
-    list-style-type: none;
+h2 {
+  text-align: center; /* Centrer le titre principal */
+  color: var(--clr-principale);
+  margin-top: 20px; /* Espacement au-dessus du titre */
 }
 
-h2{
-    position: absolute;
-    top: 2vh;
-    left: 40vw;
-    color: var(--clr-principale);
+.service {
+  margin: 20px; /* Espacement entre les services */
 }
 
-h3{
-    position:relative;
-    top: 15vh;
-    left: 10vw;
-    color: var(--clr-txt);
+.service-title {
+  display: flex; /* Utilisation de flexbox pour aligner l'icône et le titre */
+  align-items: center; /* Centre verticalement */
 }
 
-li{
-    position: relative;
-    color: var(--color-btn);
-    top: 10vh;
-    left: 10vw;
+h3 {
+  color: var(--clr-txt);
+  margin-left: 10px; /* Espace entre l'icône et le titre */
 }
 
-i{
-    position: relative;
-    color: var(--color-btn);
-    top: 10vh;
-    left: 8vw;
+i {
+  color: var(--color-btn);
+  font-size: 24px; /* Taille de l'icône */
+  margin-right: 10px; /* Espacement entre l'icône et le titre */
+}
+
+ul {
+  list-style-type: none; /* Pas de puces pour la liste */
+  margin-left: 50px; /* Espace pour les listes */
+  padding: 0; /* Pas de remplissage par défaut */
+  color: var(--color-btn); /* Couleur du texte de la liste */
 }
