@@ -1,0 +1,62 @@
+'''html
+<Doctype html>
+<html lang="fr">
+<head>
+    <meta charset=""UTF-8">
+    <meta name=""viewport" content=""width=device-width, initial-scale="1.0">
+    <title>Contact</title>
+    <style>
+        body {
+            font-family: Montserra, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+        h1{
+            color: "#1A202";
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #CBD5E0;
+            cursor: pointer;
+        }
+        button {
+            background-color: #ffffff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            border: 1px;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #4299E1;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Contactez-nous</h1>
+        <form action="votre_script_de_traitement.php" method="post">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name" required>
+ 
+            <label for="email">Email :</label>
+            <input type="email" id="email" name="email" required>
+ 
+            <label for="message">Message :</label>
+            <textarea id="message" name="message" required></textarea>
+ 
+            <button type="submit">Envoyer</button>
+        </form>
+    </body>
+    </html>
+    ```
