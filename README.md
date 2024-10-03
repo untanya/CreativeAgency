@@ -17,7 +17,7 @@ slogan : "Where Creativity Meets Technology"
 
 * Quentin rôle : designer ux / ui 
 
-projet :
+## projet :
 
 charte graphique :
 
