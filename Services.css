@@ -11,3 +11,31 @@
 li{
     list-style-type: none;
 }
+
+h2{
+    position: absolute;
+    top: 2vh;
+    left: 40vw;
+    color: var(--clr-principale);
+}
+
+h3{
+    position:relative;
+    top: 15vh;
+    left: 10vw;
+    color: var(--clr-txt);
+}
+
+li{
+    position: relative;
+    color: var(--color-btn);
+    top: 10vh;
+    left: 10vw;
+}
+
+i{
+    position: relative;
+    color: var(--color-btn);
+    top: 10vh;
+    left: 8vw;
+}
