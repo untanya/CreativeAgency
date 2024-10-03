@@ -1,0 +1,13 @@
+:root{
+    --clr-principale:#1A202C;
+    --clr-txt:#CBD5E0;
+    --color-btn:#4299E1;
+}
+
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+li{
+    list-style-type: none;
+}
